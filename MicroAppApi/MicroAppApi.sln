@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroAppApi", "MicroAppApi.csproj", "{2DFBAFB0-C51C-4395-AB7F-47E104ABA285}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{3B33EE5A-1EBA-4AF9-A181-45313528363D}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+		..\LICENSE = ..\LICENSE
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DFBAFB0-C51C-4395-AB7F-47E104ABA285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFBAFB0-C51C-4395-AB7F-47E104ABA285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFBAFB0-C51C-4395-AB7F-47E104ABA285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFBAFB0-C51C-4395-AB7F-47E104ABA285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A5605B8-C806-43D2-A970-281BB1AE6474}
+	EndGlobalSection
+EndGlobal
